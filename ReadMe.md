@@ -1,5 +1,7 @@
 # 💫 About Me:
+💻 Java Backend Developer 
 🌱 Currently learning dart
+❤️ Java & Springboot, Baby Yoda and penguins :penguin:
 
 
 ## 🌐 Socials:
