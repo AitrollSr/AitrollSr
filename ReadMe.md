@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 💻 Java Backend Developer  
-🌱 Currently learning dart  
+🌱 Currently learning Elm  
 ❤️ Java & Springboot, Baby Yoda and penguins :penguin:  
 
 
